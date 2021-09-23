@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Phelipe353 
 <div align="center">
   <a href="https://github.com/phelipe353">
-  <img height="180em"  width="440em" src="https://github-readme-stats.vercel.app/api?username=phelipe353&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipe353&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=phelipe353&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipe353&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
