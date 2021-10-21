@@ -21,6 +21,5 @@
 </div>
 
   
-- 🔭 Desenvolvedor Front-End
-- 🌱 Estudando JavaScript
+- 🔭 Desenvolvedor Front-End.
 
