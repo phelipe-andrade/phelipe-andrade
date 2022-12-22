@@ -27,5 +27,5 @@
 
   
 - 🔭 Desenvolvedor Full-Stack.
-- 📚 Estudando TypeScript.
+- 📚 Estudando Java.
 
